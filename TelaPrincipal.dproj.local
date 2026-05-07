@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2026/05/04 20:54:18.000.041,=C:\Users\rodri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/04 20:55:26.000.660,C:\Users\rodri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\rodri\OneDrive\Documentos\Embarcadero\Studio\Projects\AVALIAÇÃO\CalculadoraMediaEscolar.dfm</Transaction>
+    <Transaction>2026/05/04 20:55:26.000.660,C:\Users\rodri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\rodri\OneDrive\Documentos\Embarcadero\Studio\Projects\AVALIAÇÃO\CalculadoraMediaEscolar.pas</Transaction>
+    <Transaction>2026/05/04 20:55:41.000.929,C:\Users\rodri\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\rodri\OneDrive\Documentos\Embarcadero\Studio\Projects\AVALIAÇÃO\TelaPrincipal.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
